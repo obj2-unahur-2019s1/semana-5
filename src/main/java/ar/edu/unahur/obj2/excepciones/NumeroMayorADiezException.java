@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2;
+package ar.edu.unahur.obj2.excepciones;
 
 public class NumeroMayorADiezException extends RuntimeException {
 
