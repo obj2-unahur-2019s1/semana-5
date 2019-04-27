@@ -17,7 +17,8 @@ public class N3fli {
         return false;
     }
 
-    public boolean contenidoVisuto(Usuario usuario, Pelicula pelicula) {
+    public boolean contenidoVisto
+            (Usuario usuario, Pelicula pelicula) {
         /*Optional<Usuario> maybeUsuario = usuarios.stream()
                 .filter(u -> u.equals(usuario))
                 .findAny();
